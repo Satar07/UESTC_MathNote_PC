@@ -10,6 +10,8 @@
 
 不知道obsidian的可以看这个 https://www.bilibili.com/video/BV18a411r7mt/
 
+或者你更愿意看文字的话，我会想你推荐官方文档的中文翻译版本 https://publish.obsidian.md/help-zh/Obsidian/Obsidian
+
 双链笔记软件应该都可以，不过不保证正确性
 
 ### 项目介绍
